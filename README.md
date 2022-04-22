@@ -1,34 +1,73 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+ 👕 Mocane 👕
+</h1>
 
-## Getting Started
+<p align="center">
+Uma dashboard apresentando dados de uma empresa de roupas
+</p>
 
-First, run the development server:
+<p align="center">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AleNoia/mocane?color=%2304D361"> <img alt="Repository size" src="https://img.shields.io/github/repo-size/AleNoia/mocanee"> <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AleNoia/mocane"></a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
+![Wallpaper](https://user-images.githubusercontent.com/82424777/164578840-79de5413-6a3f-4cf3-97dc-ba10425217e5.svg)
+
+
+# 📌 Índice
+* 💡 [Funcionalidades](#features)
+* 🛠 [Instalação](#Installation)
+* ⚙ [Tecnologias e linguagens utilizadas](#TechnologiesUsed)
+* 🧾 [Licença](#License)
+***
+
+# <a name="features"></a>💡 Funcionalidades
+
+* Consome dados de um JSON
+* Apresenta dados em um dashboard
+
+
+***
+
+# <a name="Installation"></a>🛠 Instalação
+
+Você precisa fazer o download do [git](https://git-scm.com) e do [node](https://nodejs.org/en/download/) incialmente
+
+Execute este comando para clonar o reprositório:
+
+```git
+
+git clone https://github.com/AleNoia/mocane.git
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Execute este comando para instalar as dependências da aplicação:
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+npm install
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
 
-## Learn More
+### 🎲 Executando
 
-To learn more about Next.js, take a look at the following resources:
+Vá até a pasta raíz e execute o projeto:
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+npm run dev
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```
 
-## Deploy on Vercel
+***
+# <a name="TechnologiesUsed"></a> ⚙ Tecnologias e linguagens usadas
+As tecnologias e linguagens usadas neste projeto:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [Next.js](https://nextjs.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Recharts](https://recharts.org)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# <a name="License"></a>🧾 Licença 
+
+Released in 2022. This project is under the [MIT license](https://github.com/AleNoia/client-manager/blob/main/LICENSE).
+
+Criado por [Igor Noia](https://github.com/AleNoia) 👋
+
