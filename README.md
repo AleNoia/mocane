@@ -25,6 +25,7 @@ Uma dashboard apresentando dados de uma empresa de roupas
 * Consome dados de um JSON
 * Apresenta dados em um dashboard
 ![image](https://user-images.githubusercontent.com/82424777/164579344-8849a4bf-fd23-4035-a7a9-f14e2f7a810a.png)
+
 ![image](https://user-images.githubusercontent.com/82424777/164579361-a327710b-dee9-49d0-9151-cdb80ffc7110.png)
 
 
